@@ -1,0 +1,13 @@
+{
+  "name": "habibi-md",
+  "version": "1.0.0",
+  "description": "HABIBI-MD WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.22",
+    "pino": "^9.6.0"
+  }
+}
